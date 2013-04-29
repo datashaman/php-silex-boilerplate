@@ -7,7 +7,7 @@ Assuming you have PHP 5.3+ the following will pull in the required components fo
 
     make install
 
-To run a simple development server:
+To run a simple development server (assuming you have PHP 5.4+):
 
     make serve
 
